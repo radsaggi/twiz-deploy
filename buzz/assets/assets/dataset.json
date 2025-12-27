@@ -1,0 +1,86 @@
+{
+  "History": [
+    {
+      "answer": "GW",
+      "clues": [
+        "Born 1732.",
+        "General.",
+        "Convention.",
+        "First Prez.",
+        "$1 Bill."
+      ]
+    },
+    {
+      "answer": "Cleopatra VII Philopator",
+      "clues": [
+        "Ruler of Egypt.",
+        "Ptolemaic dynasty member.",
+        "Had complex political and romantic alliances with Julius Caesar and Mark Antony to protect her kingdom.",
+        "According to popular belief, she committed suicide by allowing an asp (Egyptian cobra) to bite her.",
+        "Last active ruler of the Ptolemaic Kingdom of Egypt, effectively ending the Hellenistic period."
+      ]
+    },
+    {
+      "answer": "WW2",
+      "clues": [
+        "1939-1945.",
+        "Global.",
+        "Allies vs Axis.",
+        "Poland invasion.",
+        "Japan surrender."
+      ]
+    },
+    {
+      "answer": "Napoleon Bonaparte, Emperor of the French",
+      "clues": [
+        "French military leader.",
+        "Rose during Revolution.",
+        "Crowned himself Emperor of the French in a lavish ceremony at Notre Dame de Paris in 1804.",
+        "Exiled to Elba.",
+        "Defeated at Waterloo."
+      ]
+    }
+  ],
+  "Science": [
+    {
+      "answer": "Photo",
+      "clues": [
+        "Plants use it.",
+        "Light to chemical.",
+        "Needs CO2 + H2O.",
+        "Makes O2.",
+        "Chloroplasts."
+      ]
+    },
+    {
+      "answer": "Universal Gravitation",
+      "clues": [
+        "Attraction.",
+        "Newton's work described this fundamental force that governs the motion of celestial bodies and objects on Earth.",
+        "Orbit keeper.",
+        "Tides.",
+        "Gives weight."
+      ]
+    },
+    {
+      "answer": "Deoxyribonucleic Acid",
+      "clues": [
+        "Genetic instructions.",
+        "DNA.",
+        "Double helix structure discovered by Watson and Crick, revolutionizing our understanding of genetics.",
+        "Watson & Crick.",
+        "In nucleus."
+      ]
+    },
+    {
+      "answer": "Sol",
+      "clues": [
+        "Star.",
+        "Plasma sphere.",
+        "99.86% mass.",
+        "Fusion power.",
+        "8 min light."
+      ]
+    }
+  ]
+}
